@@ -23,8 +23,8 @@ class MyStack {
 
     public boolean empty() {
         return t == -1;
-    }
-   
+    } 
+    
 }
 
 /**
